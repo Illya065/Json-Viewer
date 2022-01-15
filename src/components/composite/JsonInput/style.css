@@ -1,0 +1,9 @@
+.json-input {
+  outline-style: none;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  padding: 1rem;
+  font-size: 1.8rem;
+  border: none;
+}

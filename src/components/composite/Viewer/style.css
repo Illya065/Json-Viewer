@@ -1,0 +1,14 @@
+.viewer {
+  height: 100%;
+  padding: 3rem;
+  overflow: scroll;
+}
+
+.list {
+  padding: 1rem 1.8rem;
+}
+
+.main-list {
+  margin: 0rem;
+  padding: 0rem;
+}

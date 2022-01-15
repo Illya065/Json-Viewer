@@ -1,0 +1,12 @@
+.footer {
+  min-height: 3rem;
+  background-color: var(--accent);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-text {
+    font-size: 1.2rem;
+    color: var(--main-bg-color);
+}

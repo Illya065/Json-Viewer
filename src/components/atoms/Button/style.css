@@ -1,0 +1,17 @@
+.button {
+  background-color: var(--accent);
+  border: none;
+  outline: none;
+  padding: 0.8rem 1.6rem;
+  border-radius: 1rem;
+}
+
+.button_text {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(--main-bg-color);
+}
+
+.button:active {
+    transform: translate(0px, 2px);
+}

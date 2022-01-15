@@ -1,0 +1,31 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.content {
+  height: calc(100vh - 10rem);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5rem 5rem;
+}
+
+.content__textBlock {
+  border: 0.8rem solid var(--accent);
+  flex: 1;
+  margin: 0 1rem;
+  height: 100%;
+  border-radius: 2rem;
+  background-color: #fff;
+  overflow: hidden;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  width: 15rem;
+}
